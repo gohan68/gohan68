@@ -23,7 +23,7 @@ I turn complex ideas into shipping products. Specializing in high-performance MV
 ---
 
 ### 📈 Stats
-![Sharukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gohan68&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gohan68&layout=compact&theme=radical&hide_border=true)
 
 ---
 
