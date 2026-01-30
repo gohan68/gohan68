@@ -22,12 +22,4 @@ I turn complex ideas into shipping products. Specializing in high-performance MV
 
 ---
 
-### ⚡ Tools & Frameworks
-* **Languages:** TypeScript, JavaScript, Python, Java, SQL
-* **Frontend:** Next.js, React, Tailwind CSS
-* **Backend:** Supabase, PostgreSQL, Node.js
-* **DevOps:** Docker, Vercel, Git
-
----
-
 [Linkedin](https://www.linkedin.com/in/sharukesh-886103169/) • [Behance](https://www.behance.net/sharukesh) • [Email](mailto:your-email@example.com)
