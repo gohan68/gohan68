@@ -22,9 +22,4 @@ I turn complex ideas into shipping products. Specializing in high-performance MV
 
 ---
 
-### 📈 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gohan68&layout=compact&theme=radical&hide_border=true)
-
----
-
 [Linkedin](https://www.linkedin.com/in/sharukesh-886103169/) • [Behance](https://www.behance.net/sharukesh) • [Email](mailto:your-email@example.com)
